@@ -3,4 +3,5 @@ A repository for files created while working through the book "Web Scraping with
 
 ## Update Log
 * 12/29/17:
-* * Creating a branch for chapter 1 and beginning working through it -CC
+  * Creating a branch for chapter 1 and beginning working through it -CC
+  * Finished chapter one and commited the notebook. -CC
